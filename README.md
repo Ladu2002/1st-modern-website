@@ -1,2 +1,3 @@
 # 1st-modern-website
-author - ladukishor Subudhi
+author - laxman Subudhi
+ 
